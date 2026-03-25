@@ -6,31 +6,32 @@ import java.util.List;
 public class GenbinaryStr {
     public static void main(String[] args) {
         StringBuilder x = new StringBuilder();
-        x.append("0".repeat(4));
-        System.out.println(generateBinaryStringss(4, new ArrayList<String>(Collections.singleton(x.toString())), 0, x));
+        ArrayList<String> ar = new ArrayList<>();
+        generateBinaryStringss(3, ar,  x);
+        System.out.println(ar);
     }
 //    public static List<String> generateBinaryStrings(int n) {
 //        // Your code goes here
 //
 //    }
 
-    public static List<String> generateBinaryStringss(int n, List<String> x, int ix, StringBuilder cur) {
-        if(ix >= n || cur.charAt(ix) == '1')return x;
+    public static void generateBinaryStringss(int n, List<String> x, StringBuilder cur) {
 
-        if(ix == n-1 && '1' != cur.charAt(ix-1)){
-            cur.setCharAt(ix, '1');
+        if(n == cur.length()){
             x.add(cur.toString());
+            return;
         }
-        else if(ix == 0 && 1 != cur.charAt(ix+1)){
-            cur.setCharAt(ix, '1');
-            x.add(cur.toString());
+        if(n < cur.length()) return;
+        if(cur.isEmpty() || cur.charAt(cur.length()-1) == '0'){
+            generateBinaryStringss(n, x, cur.append('0'));
+            cur.deleteCharAt(cur.length()-1);
+            generateBinaryStringss(n, x, cur.append('1'));
+            cur.deleteCharAt(cur.length()-1);
         }
-        else if((ix < n-1 && ix > 0) && ('1' != cur.charAt(ix+1) && '1' != cur.charAt(ix-1))){
-            cur.setCharAt(ix, '1');
-            x.add(cur.toString());
+        else{
+            generateBinaryStringss(n, x, cur.append('0'));
+            cur.deleteCharAt(cur.length()-1);
         }
-        generateBinaryStringss(n, x, ix+1, cur);
-        generateBinaryStringss(n, x, ix + 1, new StringBuilder(x.getFirst()));
-        return x;
+        return;
     }
 }
