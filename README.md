@@ -61,6 +61,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
