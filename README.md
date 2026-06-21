@@ -47,6 +47,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
@@ -64,6 +65,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
@@ -119,4 +121,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
