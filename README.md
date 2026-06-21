@@ -29,6 +29,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
