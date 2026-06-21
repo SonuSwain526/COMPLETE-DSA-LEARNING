@@ -19,6 +19,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -43,6 +44,15 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
