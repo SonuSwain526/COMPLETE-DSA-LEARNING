@@ -8,6 +8,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
@@ -29,6 +30,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -81,6 +83,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Hash Table
 |  |
 | ------- |
