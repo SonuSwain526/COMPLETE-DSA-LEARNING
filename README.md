@@ -67,6 +67,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0031-next-permutation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -88,4 +89,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
