@@ -30,6 +30,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
@@ -82,6 +83,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Union-Find
 |  |
 | ------- |
@@ -90,6 +92,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
