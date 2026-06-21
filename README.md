@@ -30,10 +30,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
