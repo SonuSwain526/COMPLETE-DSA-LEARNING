@@ -31,4 +31,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
