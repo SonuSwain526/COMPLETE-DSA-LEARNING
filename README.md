@@ -49,6 +49,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
@@ -106,4 +107,16 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
