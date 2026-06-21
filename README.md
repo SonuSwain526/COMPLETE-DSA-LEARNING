@@ -34,9 +34,11 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
