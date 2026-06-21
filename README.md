@@ -19,6 +19,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
@@ -61,6 +62,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 ## Union-Find
 |  |
