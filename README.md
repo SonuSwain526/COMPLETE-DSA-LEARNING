@@ -20,6 +20,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
@@ -79,4 +80,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
