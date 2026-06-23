@@ -28,6 +28,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -87,6 +88,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -125,6 +127,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
