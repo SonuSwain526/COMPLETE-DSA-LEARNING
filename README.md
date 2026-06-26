@@ -30,6 +30,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
@@ -95,6 +96,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
@@ -119,6 +121,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
