@@ -39,6 +39,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -173,6 +174,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -219,6 +221,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 ## Segment Tree
 |  |
@@ -238,6 +241,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
