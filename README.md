@@ -41,6 +41,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -136,6 +137,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
@@ -182,6 +184,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -231,6 +234,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 ## Segment Tree
@@ -274,4 +278,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
