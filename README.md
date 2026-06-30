@@ -37,6 +37,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
+| [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
@@ -185,6 +186,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
@@ -235,6 +237,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
@@ -259,6 +262,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
