@@ -39,6 +39,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
@@ -133,6 +134,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -178,6 +180,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
@@ -226,6 +229,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
