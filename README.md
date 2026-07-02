@@ -120,6 +120,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
@@ -295,4 +296,16 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
