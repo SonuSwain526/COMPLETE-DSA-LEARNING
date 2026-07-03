@@ -278,6 +278,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 ## Recursion
 |  |
@@ -300,12 +301,15 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
