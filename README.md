@@ -33,6 +33,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
@@ -201,6 +202,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -306,6 +308,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,4 +323,9 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
