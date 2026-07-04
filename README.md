@@ -287,6 +287,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 ## Recursion
 |  |
@@ -318,6 +319,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +346,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
