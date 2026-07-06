@@ -315,6 +315,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -334,6 +335,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -352,6 +354,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -370,6 +373,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
