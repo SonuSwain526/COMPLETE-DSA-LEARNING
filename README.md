@@ -296,6 +296,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +336,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0543-diameter-of-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0543-diameter-of-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,4 +394,5 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
