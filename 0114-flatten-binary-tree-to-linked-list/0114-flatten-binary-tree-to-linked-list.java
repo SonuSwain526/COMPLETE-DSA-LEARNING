@@ -29,16 +29,6 @@ class Solution {
         // root = x;
     }
 
-    TreeNode copy(TreeNode root) {
-        if (root == null) return null;
-
-        TreeNode node = new TreeNode(root.val);
-        node.left = copy(root.left);
-        node.right = copy(root.right);
-
-        return node;
-    }
-
     void helper(TreeNode cur, List<TreeNode> l){
         if (cur == null) return;
 
