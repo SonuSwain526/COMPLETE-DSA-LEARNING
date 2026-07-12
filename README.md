@@ -131,6 +131,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
@@ -237,6 +238,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [1669-merge-in-between-linked-lists](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
@@ -352,6 +354,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0110-balanced-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
@@ -380,6 +383,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0110-balanced-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
@@ -411,6 +415,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0110-balanced-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
