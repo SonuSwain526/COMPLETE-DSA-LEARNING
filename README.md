@@ -451,4 +451,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
