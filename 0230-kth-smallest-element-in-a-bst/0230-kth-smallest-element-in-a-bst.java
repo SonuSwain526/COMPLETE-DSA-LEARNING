@@ -14,7 +14,9 @@
  * }
  */
 class Solution {
-    public int kthSmallest(TreeNode root, int k) {
+    int g;
+    int k;
+    public int kthSmallest(TreeNode root, int x) {
         // if(root == null) return 0;
 
         // if (k == 0) return root.val;
@@ -23,18 +25,25 @@ class Solution {
         // k--;
         // if (k == 0) return root.val;
         // smal = kthSmallest(root.right, k);
-        List<Integer> x = new ArrayList<>();
-        helper(root, x);
+        g = 0;
+        k = x;
+        // List<Integer> x = new ArrayList<>();
+        helper(root);
 
-        return x.get(k-1);
+        return g;
 
     }
 
-    void helper(TreeNode root, List<Integer> x){
+    void helper(TreeNode root){
         if(root == null) return;
 
-        helper(root.left, x);
-        x.add(root.val);
-        helper(root.right, x);
+        helper(root.left);
+        // x.add(root.val);
+        // k--;
+        if(--k == 0){
+            g = root.val;
+            return;
+        }
+        helper(root.right);
     }
 }
