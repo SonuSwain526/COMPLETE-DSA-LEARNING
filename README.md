@@ -47,6 +47,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +146,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0901-online-stock-span](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -185,6 +187,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -377,6 +380,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0701-insert-into-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 ## Depth-First Search
@@ -444,6 +448,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0701-insert-into-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -456,6 +461,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0501-find-mode-in-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
