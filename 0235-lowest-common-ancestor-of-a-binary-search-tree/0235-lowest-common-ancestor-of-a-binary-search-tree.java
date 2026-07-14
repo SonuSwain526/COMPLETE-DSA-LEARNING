@@ -11,23 +11,23 @@
 class Solution {
     Map<TreeNode, TreeNode> map;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        map = new HashMap<>();
+        // map = new HashMap<>();
 
-        bfs(root, null);
+        // bfs(root, null);
 
-        if (find(p, q)) return p;
+        // if (find(p, q)) return p;
 
-        if (find(q,p)) return q;
+        // if (find(q,p)) return q;
 
-        TreeNode cur = p;
-        boolean ans = false;
-        while (cur != null){
-            ans = find(map.get(cur), q);
-            if (ans) return map.get(cur);
-            cur = map.get(cur);
-        }
+        // TreeNode cur = p;
+        // boolean ans = false;
+        // while (cur != null){
+        //     ans = find(map.get(cur), q);
+        //     if (ans) return map.get(cur);
+        //     cur = map.get(cur);
+        // }
 
-        return null;
+        return optimal(root, p, q);
 
     }
 
@@ -54,5 +54,22 @@ class Solution {
         }
 
         return ans;
+    }
+
+    public TreeNode optimal(TreeNode cur, TreeNode p, TreeNode q){
+
+        if (cur == null) return null;
+
+        TreeNode x = new TreeNode();
+
+        if(cur.val > p.val && cur.val > q.val){
+           x = optimal(cur.left, p, q);
+        }
+        else if(cur.val < p.val && cur.val < q.val){
+           x = optimal(cur.right, p, q);
+        }else{
+            return cur;
+        }
+        return x;
     }
 }
