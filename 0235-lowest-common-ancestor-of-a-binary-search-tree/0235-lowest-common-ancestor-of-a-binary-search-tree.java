@@ -9,7 +9,7 @@
  */
 
 class Solution {
-    Map<TreeNode, TreeNode> map;
+    // Map<TreeNode, TreeNode> map;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         // map = new HashMap<>();
 
@@ -31,30 +31,30 @@ class Solution {
 
     }
 
-    public void bfs(TreeNode cur, TreeNode root){
-        if(cur == null) return;
+    // public void bfs(TreeNode cur, TreeNode root){
+    //     if(cur == null) return;
 
-        map.put(cur, root);
+    //     map.put(cur, root);
 
-        bfs(cur.left, cur);
-        bfs(cur.right, cur);
+    //     bfs(cur.left, cur);
+    //     bfs(cur.right, cur);
         
-    }
+    // }
 
-    public boolean find(TreeNode cur, TreeNode tar){
-        if(cur == null) return false;
+    // public boolean find(TreeNode cur, TreeNode tar){
+    //     if(cur == null) return false;
 
-        if (cur.val == tar.val) return true;
-        boolean ans = false;
-        if (cur.val > tar.val){
-           ans = find(cur.left, tar);
-        }
-        if (cur.val < tar.val){
-           ans = find(cur.right, tar);
-        }
+    //     if (cur.val == tar.val) return true;
+    //     boolean ans = false;
+    //     if (cur.val > tar.val){
+    //        ans = find(cur.left, tar);
+    //     }
+    //     if (cur.val < tar.val){
+    //        ans = find(cur.right, tar);
+    //     }
 
-        return ans;
-    }
+    //     return ans;
+    // }
 
     public TreeNode optimal(TreeNode cur, TreeNode p, TreeNode q){
 
