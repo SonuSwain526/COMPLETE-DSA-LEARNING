@@ -42,12 +42,10 @@ class Solution {
 
         Collections.sort(x);
 
-        System.out.println(x);
 
         if (k >= x.size()) return -1;
 
         return x.get(x.size() - k);
-        // return -1;
 
     }
 
