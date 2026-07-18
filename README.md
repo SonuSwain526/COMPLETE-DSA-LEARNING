@@ -114,6 +114,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
@@ -144,6 +145,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
@@ -388,6 +390,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -470,6 +473,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0501-find-mode-in-binary-search-tree) |
