@@ -254,6 +254,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0025-reverse-nodes-in-k-group](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
+| [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -398,6 +399,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -433,6 +435,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -477,6 +480,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
