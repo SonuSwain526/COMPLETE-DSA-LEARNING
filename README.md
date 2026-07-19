@@ -403,6 +403,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -440,6 +441,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0687-longest-univalue-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -486,6 +488,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
