@@ -111,6 +111,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
@@ -139,6 +140,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
