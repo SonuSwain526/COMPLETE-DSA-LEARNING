@@ -23,7 +23,6 @@ class Solution {
         if (count > 2) {
             total += count - 2;
         }
-        System.out.println(nums.length - count);
         return nums.length - total;
     }
 }
