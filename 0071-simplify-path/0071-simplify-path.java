@@ -20,8 +20,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(arr);
-
 
         Stack<String> s = new Stack<>();
 
@@ -43,7 +41,6 @@ class Solution {
             ans.add("/" + s.peek());
             s.pop();
         }
-        System.out.println(ans);
         Collections.reverse(ans);
         return String.join("", ans);
     }
