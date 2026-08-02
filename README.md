@@ -48,6 +48,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
@@ -258,6 +259,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -373,6 +375,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -559,4 +562,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
