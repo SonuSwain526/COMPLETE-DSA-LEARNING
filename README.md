@@ -33,6 +33,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0031-next-permutation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -86,6 +87,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
@@ -264,6 +266,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
