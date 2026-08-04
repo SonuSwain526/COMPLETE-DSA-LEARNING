@@ -12,7 +12,7 @@ class Solution {
             int first = maxHeap.poll();
             int second = maxHeap.poll();
 
-            maxHeap.add(Math.abs(first - second));
+            if (first != second) maxHeap.add(first - second);
         }
 
         if (maxHeap.isEmpty()) return 0;
