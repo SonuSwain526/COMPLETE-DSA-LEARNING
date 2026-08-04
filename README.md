@@ -82,6 +82,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -250,6 +251,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -338,6 +340,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
