@@ -51,6 +51,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0485-max-consecutive-ones](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
@@ -108,6 +109,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
@@ -338,6 +340,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
