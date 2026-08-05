@@ -69,6 +69,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
@@ -108,6 +109,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
@@ -123,6 +125,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
@@ -226,6 +229,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
