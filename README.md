@@ -53,6 +53,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
@@ -100,6 +101,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0860-lemonade-change) |
@@ -114,6 +116,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
@@ -129,6 +132,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1189-maximum-number-of-balloons) |
@@ -209,6 +213,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -357,6 +362,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
