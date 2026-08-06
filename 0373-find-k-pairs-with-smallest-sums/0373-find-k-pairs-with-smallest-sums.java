@@ -31,10 +31,10 @@ class Solution {
                 set.add(new Pair<>(i+1, j));
                 pq.add(new Pair<>((nums1[i+1] + nums2[j] ), new int[]{i+1, j}));
             }
-            if ( j+1 < m && i+1 < n &&!set.contains(new Pair<>(i+1, j+1))){
-                set.add(new Pair<>(i+1, j+1));
-                pq.add(new Pair<>((nums1[i+1] + nums2[j+1] ), new int[]{i+1, j+1}));
-            }
+            // if ( j+1 < m && i+1 < n &&!set.contains(new Pair<>(i+1, j+1))){
+            //     set.add(new Pair<>(i+1, j+1));
+            //     pq.add(new Pair<>((nums1[i+1] + nums2[j+1] ), new int[]{i+1, j+1}));
+            // }
         }
 
         return ans;
