@@ -8,10 +8,17 @@ class Solution {
             (a, b) -> a.getKey() - b.getKey()
         );
 
-        Set<Pair<Integer, Integer>> set = new HashSet<>();
+        // Set<Pair<Integer, Integer>> set = new HashSet<>();
 
-        pq.add(new Pair<>((nums1[0]+nums2[0]), new int[]{0, 0}));
-        set.add(new Pair<>(0, 0));
+        // pq.add(new Pair<>((nums1[0]+nums2[0]), new int[]{0, 0}));
+        // set.add(new Pair<>(0, 0));
+
+        for (int i = 0; i < n; i++){
+            pq.add(new Pair<>(
+                (nums1[i] + nums2[0]),
+                new int[]{i, 0}
+            ));
+        }
 
         List<List<Integer>> ans = new ArrayList<>();
 
@@ -23,14 +30,21 @@ class Solution {
 
             ans.add(Arrays.asList(nums1[i], nums2[j]));
 
-            if ( j+1 < m &&!set.contains(new Pair<>(i, j+1))){
-                set.add(new Pair<>(i, j+1));
-                pq.add(new Pair<>((nums1[i] + nums2[j+1] ), new int[]{i, j+1}));
+            if (j + 1 < m){
+                pq.add(new Pair<>(
+                    (nums1[i] + nums2[j+1]),
+                    new int[]{i, j+1}
+                ));
             }
-            if ( i+1 < n &&!set.contains(new Pair<>(i+1, j))){
-                set.add(new Pair<>(i+1, j));
-                pq.add(new Pair<>((nums1[i+1] + nums2[j] ), new int[]{i+1, j}));
-            }
+
+            // if ( j+1 < m &&!set.contains(new Pair<>(i, j+1))){
+            //     set.add(new Pair<>(i, j+1));
+            //     pq.add(new Pair<>((nums1[i] + nums2[j+1] ), new int[]{i, j+1}));
+            // }
+            // if ( i+1 < n &&!set.contains(new Pair<>(i+1, j))){
+            //     set.add(new Pair<>(i+1, j));
+            //     pq.add(new Pair<>((nums1[i+1] + nums2[j] ), new int[]{i+1, j}));
+            // }
             // if ( j+1 < m && i+1 < n &&!set.contains(new Pair<>(i+1, j+1))){
             //     set.add(new Pair<>(i+1, j+1));
             //     pq.add(new Pair<>((nums1[i+1] + nums2[j+1] ), new int[]{i+1, j+1}));
