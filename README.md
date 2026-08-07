@@ -58,6 +58,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
@@ -125,6 +126,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -268,6 +270,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0143-reorder-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -356,6 +359,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
@@ -381,6 +385,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
@@ -396,6 +401,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
