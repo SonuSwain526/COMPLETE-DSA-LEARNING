@@ -48,6 +48,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
@@ -288,6 +289,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 ## Simulation
@@ -434,6 +436,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
@@ -468,6 +471,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
@@ -548,6 +552,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
