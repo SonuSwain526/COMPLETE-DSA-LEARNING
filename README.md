@@ -294,6 +294,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -458,6 +459,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
 |  |
@@ -585,6 +587,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -666,6 +669,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
 | ------- |
