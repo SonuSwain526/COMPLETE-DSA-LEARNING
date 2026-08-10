@@ -24,7 +24,7 @@ class Solution {
         vis[src] = true;
 
         for (int connectedVer: graph.get(src)) {
-            if (dfs (connectedVer, des, vis, graph)) return true;
+            if (!vis[connectedVer] && dfs (connectedVer, des, vis, graph)) return true;
         }
 
         return false;
