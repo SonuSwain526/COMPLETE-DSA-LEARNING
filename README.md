@@ -72,6 +72,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
@@ -244,6 +245,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0930-binary-subarrays-with-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -670,6 +672,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0207-course-schedule](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
