@@ -5,7 +5,7 @@ class Solution {
 
         boolean[][] vis = new boolean[n][m];
 
-        List<Pair<Integer, Integer>> list = new ArrayList<>();
+        // List<Pair<Integer, Integer>> list = new ArrayList<>();
 
         Queue<Pair <Integer, Integer>> q = new LinkedList<>();
 
@@ -13,7 +13,7 @@ class Solution {
             for (int j = 0; j < m; j++) {
                 if ((i == 0 || i == n-1 || j == 0 || j == m - 1) && board[i][j] == 'O') {
                     vis[i][j] = true;
-                    list.add ( new Pair<>(i, j) );
+                    // list.add ( new Pair<>(i, j) );
                     q.add (new Pair<> (i, j));
                 }
             }
@@ -33,7 +33,7 @@ class Solution {
                     !vis[curI + 1][curJ]
                 ){
                     vis[curI + 1][curJ] = true;
-                    list.add(new Pair<>(curI + 1, curJ));
+                    // list.add(new Pair<>(curI + 1, curJ));
                     q.add (new Pair<>(curI + 1, curJ));
                 }
 
@@ -42,7 +42,7 @@ class Solution {
                     !vis[curI][curJ + 1]
                 ){
                     vis[curI][curJ + 1] = true;
-                    list.add(new Pair<>(curI, curJ + 1));
+                    // list.add(new Pair<>(curI, curJ + 1));
                     q.add (new Pair<>(curI, curJ + 1));
                 }
 
@@ -51,7 +51,7 @@ class Solution {
                     !vis[curI - 1][curJ]
                 ){
                     vis[curI - 1][curJ] = true;
-                    list.add(new Pair<>(curI - 1, curJ));
+                    // list.add(new Pair<>(curI - 1, curJ));
                     q.add (new Pair<>(curI - 1, curJ));
                 }
 
@@ -60,7 +60,7 @@ class Solution {
                     !vis[curI][curJ - 1]
                 ){
                     vis[curI][curJ - 1] = true;
-                    list.add(new Pair<>(curI, curJ - 1));
+                    // list.add(new Pair<>(curI, curJ - 1));
                     q.add (new Pair<>(curI, curJ - 1));
                 }
             }
@@ -68,13 +68,13 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                board[i][j] = 'X';
+                if (!vis[i][j]) board[i][j] = 'X';
             }
         }
 
-        for (Pair<Integer, Integer> x: list) {
-            board[x.getKey()][x.getValue()] = 'O';
-        }
+        // for (Pair<Integer, Integer> x: list) {
+        //     board[x.getKey()][x.getValue()] = 'O';
+        // }
 
         return;
     }
