@@ -173,6 +173,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -236,6 +237,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
@@ -449,6 +451,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
@@ -752,5 +755,6 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
