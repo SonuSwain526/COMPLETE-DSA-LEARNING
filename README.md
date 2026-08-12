@@ -103,6 +103,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -263,6 +264,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -397,6 +399,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Segment Tree
 |  |
