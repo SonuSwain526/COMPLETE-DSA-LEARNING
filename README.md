@@ -198,6 +198,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -269,6 +270,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
@@ -404,6 +406,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
