@@ -477,6 +477,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -609,6 +610,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0687-longest-univalue-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -700,6 +702,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0207-course-schedule](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
@@ -746,6 +749,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -780,4 +784,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
