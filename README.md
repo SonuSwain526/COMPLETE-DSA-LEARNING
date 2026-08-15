@@ -98,6 +98,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -199,6 +200,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
@@ -268,6 +270,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -718,6 +721,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Enumeration
 |  |
 | ------- |
@@ -762,11 +766,13 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0210-course-schedule-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Minimax
 |  |
 | ------- |
