@@ -1,6 +1,5 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] p) {
-        
         List<List<Integer>> gp = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) {
             gp.add(new ArrayList<>());
