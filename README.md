@@ -437,6 +437,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -488,6 +489,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
@@ -624,6 +626,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0662-maximum-width-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
@@ -718,6 +721,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0210-course-schedule-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
@@ -817,4 +821,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
