@@ -725,6 +725,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1791-find-center-of-star-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Enumeration
