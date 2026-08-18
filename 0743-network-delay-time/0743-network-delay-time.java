@@ -11,21 +11,26 @@ class Solution {
         for (int i = 0; i <= n; i++) dist[i] = Integer.MAX_VALUE;
         dist[k] = 0;
         Queue<Integer> q = new LinkedList<>();
-        q.add(k);
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> a[1] - b[1]
+        );
+        pq.add(new int[]{k, 0});
 
-        while (!q.isEmpty()) {
-            int x = q.poll();
+        while (!pq.isEmpty()) {
+            int[] x = pq.poll();
 
-            for (int[] cur: adj.get(x)) {
+            if (dist[x[0]] < x[1]) continue;
+
+            for (int[] cur: adj.get(x[0])) {
                 int node = cur[0];
                 int distt = cur[1];
-                if (dist[x] + distt < dist[node]) {
-                    dist[node] = dist[x] + distt;
-                    q.add(node);
+                if (dist[x[0]] + distt < dist[node]) {
+                    dist[node] = dist[x[0]] + distt;
+                    pq.add(new int[]{node, dist[node]});
                 }
             }
         }
-        System.out.println(Arrays.toString(dist));
+        // System.out.println(Arrays.toString(dist));
         int ans = -1;
         int c = 0;
         for (int i: dist) {
