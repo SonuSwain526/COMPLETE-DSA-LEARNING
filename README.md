@@ -371,6 +371,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
@@ -444,6 +445,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -498,6 +500,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -634,6 +637,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -729,6 +733,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
@@ -831,6 +836,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
