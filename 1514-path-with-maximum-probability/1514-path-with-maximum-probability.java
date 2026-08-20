@@ -8,7 +8,7 @@ class Solution {
             adj.get(cur[1]).add(new Pair<>(cur[0], succProb[p]));
             p++;
         }
-        System.out.print(adj);
+        // System.out.print(adj);
         double[] prob = new double[n];
         for (int i = 0; i< n; i++) prob[i] = 0;
         prob[start_node] = 1;
