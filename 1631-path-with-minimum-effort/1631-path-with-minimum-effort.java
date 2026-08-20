@@ -20,7 +20,8 @@ class Solution {
             int i = cur.getKey()[0];
             int j = cur.getKey()[1];
             int max = cur.getValue();
-
+            if (max > arr[i][j]) continue;
+            // if (i == m - 1 && j == n - 1) return arr[m - 1][m - 1];
             int[] x = {0, 0, 1, -1};
             int[] y = {1, -1, 0, 0};
             for (int k = 0; k < 4; k++) {
@@ -36,6 +37,7 @@ class Solution {
                 } 
             }
         } 
+
         return arr[m - 1][n - 1];  
     }
 }
