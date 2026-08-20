@@ -14,6 +14,9 @@ class Solution {
 
         pq.add(new Pair<>(new int[]{0, 0}, 0));
 
+        int[] x = {0, 0, 1, -1};
+        int[] y = {1, -1, 0, 0};
+
         while (!pq.isEmpty()) {
             Pair<int[], Integer> cur = pq.poll();
             
@@ -21,9 +24,8 @@ class Solution {
             int j = cur.getKey()[1];
             int max = cur.getValue();
             if (max > arr[i][j]) continue;
-            // if (i == m - 1 && j == n - 1) return arr[m - 1][m - 1];
-            int[] x = {0, 0, 1, -1};
-            int[] y = {1, -1, 0, 0};
+            if (i == m - 1 && j == n - 1) return arr[m - 1][n - 1];
+
             for (int k = 0; k < 4; k++) {
                 int inI = i + x[k];
                 int inJ = j + y[k];
