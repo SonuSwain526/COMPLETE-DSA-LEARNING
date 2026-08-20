@@ -23,7 +23,7 @@ class Solution {
             int node = cur.getKey();
             double curp = cur.getValue();
             
-            if (node == end_node) return prob[node];
+            if (node == end_node) return curp;
             if (curp < prob[node]) continue;
 
             for (Pair<Integer, Double> ng: adj.get(node)) {
