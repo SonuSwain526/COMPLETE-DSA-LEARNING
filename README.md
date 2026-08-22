@@ -101,6 +101,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
@@ -530,6 +531,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -560,6 +562,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
