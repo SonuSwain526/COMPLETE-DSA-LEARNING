@@ -81,6 +81,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1288-remove-covered-intervals) |
@@ -381,6 +382,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1162-as-far-from-land-as-possible](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1162-as-far-from-land-as-possible) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
@@ -522,6 +524,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0994-rotting-oranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1162-as-far-from-land-as-possible) |
 | [1345-jump-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1345-jump-game-iv) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
@@ -553,6 +556,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0994-rotting-oranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
