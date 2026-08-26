@@ -1,105 +1,70 @@
-import java.util.*;
-
-class UnionFind {
-    int[] parent;
-    int[] size;
-
-    UnionFind(int n) {
-        parent = new int[n];
-        size = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-            size[i] = 1;
-        }
-    }
-
-    int findParent(int x) {
-        if (parent[x] == x)
-            return x;
-
-        return parent[x] = findParent(parent[x]);
-    }
-
-    boolean union(int u, int v) {
-        int pu = findParent(u);
-        int pv = findParent(v);
-
-        if (pu == pv)
-            return false;
-
-        if (size[pu] < size[pv]) {
-            parent[pu] = pv;
-            size[pv] += size[pu];
-        } else {
-            parent[pv] = pu;
-            size[pu] += size[pv];
-        }
-
-        return true;
-    }
-}
-
 class Solution {
-
-    int kruskal(int n, int[][] edges, int skip, int force) {
-
-        UnionFind uf = new UnionFind(n);
-
-        int weight = 0;
-        int count = 0;
-
-        // Force this edge first
-        if (force != -1) {
-
-            int[] e = edges[force];
-
-            int u = e[0];
-            int v = e[1];
-            int wt = e[2];
-
-            uf.union(u, v);
-
-            weight += wt;
-            count++;
+    class DSU{
+        int[] size;
+        int[] p;
+        
+        DSU(int n) {
+            size = new int[n];
+            p = new int[n];
+            Arrays.fill(size, 1);
+            for (int i = 0; i < n; i++) p[i] = i;
         }
 
-        // Normal Kruskal
-        for (int i = 0; i < edges.length; i++) {
+        int findP(int u) {
+            if (u == p[u]) return u; 
+            return p[u] = findP(p[u]);
+        }
 
-            if (i == skip || i == force)
-                continue;
+        boolean union(int u, int v) {
+            int pu = findP(u);
+            int pv = findP(v);
 
-            int[] e = edges[i];
+            if (pu == pv) return false;
+            if (size[pu] > size[pv]) {
+                size[pu] += size[pv];
+                p[pv] = pu;
+            }else {
+                size[pv] += size[pu];
+                p[pu] = pv;
+            }
+            return true ;
+        }
+    }
 
-            int u = e[0];
-            int v = e[1];
-            int wt = e[2];
+    int kruskal(int[][] adj, int skip, int force, int V) {
+        int wt = 0;
+        int el = 0;
 
-            if (uf.union(u, v)) {
+        DSU dsu = new DSU(V);
 
-                weight += wt;
-                count++;
+        if (force != -1) {
+            dsu.union(adj[force][0], adj[force][1]);
+            wt += adj[force][2];
+            el++;
+        }
 
-                if (count == n - 1)
-                    break;
+        for (int i = 0; i < adj.length; i++) {
+            int u = adj[i][0];
+            int v = adj[i][1];
+            int curw = adj[i][2];
+
+            if (i == skip || i == force) continue;
+
+            if (dsu.union(u, v)) {
+                wt += curw;
+                el++;
+
+                if (el == V - 1) return wt;
             }
         }
-
-        // Couldn't connect all vertices
-        if (count != n - 1)
-            return Integer.MAX_VALUE;
-
-        return weight;
+        if (el != V-1) return Integer.MAX_VALUE;
+        return wt;
     }
+    public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
 
-    public List<List<Integer>> findCriticalAndPseudoCriticalEdges(
-            int n, int[][] edges) {
+        List<Integer> pc = new ArrayList<>();
+        List<Integer> c = new ArrayList<>();
 
-        List<Integer> critical = new ArrayList<>();
-        List<Integer> pseudoCritical = new ArrayList<>();
-
-        // Add original index
         for (int i = 0; i < edges.length; i++) {
 
             edges[i] = Arrays.copyOf(edges[i], 4);
@@ -107,35 +72,48 @@ class Solution {
             edges[i][3] = i;
         }
 
-        // Sort by weight
         Arrays.sort(
             edges,
             (a, b) -> Integer.compare(a[2], b[2])
         );
 
-        // Normal MST
-        int originalMST = kruskal(n, edges, -1, -1);
+        int owt = kruskal(edges, -1, -1, n);
+for (int i = 0; i < edges.length; i++) {
 
-        for (int i = 0; i < edges.length; i++) {
+    // Remove edge
+    int skipWeight = kruskal(edges, i, -1, n);
 
-            // Check critical
-            int withoutEdge = kruskal(n, edges, i, -1);
+    if (skipWeight > owt) {
 
-            if (withoutEdge > originalMST) {
+        // Definitely critical
+        c.add(edges[i][3]);
 
-                critical.add(edges[i][3]);
+    } else {
 
-            } else {
+        // Only non-critical edges can be pseudo-critical
+        int forceWeight = kruskal(edges, -1, i, n);
 
-                // Check pseudo-critical
-                int withEdge = kruskal(n, edges, -1, i);
-
-                if (withEdge == originalMST) {
-                    pseudoCritical.add(edges[i][3]);
-                }
-            }
-        }
-
-        return Arrays.asList(critical, pseudoCritical);
+        if (forceWeight == owt)
+            pc.add(edges[i][3]);
     }
 }
+
+        return Arrays.asList(c, pc);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
