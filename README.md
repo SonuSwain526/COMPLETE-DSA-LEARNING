@@ -341,6 +341,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
@@ -782,6 +783,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1791-find-center-of-star-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
