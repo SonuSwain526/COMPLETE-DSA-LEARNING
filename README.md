@@ -163,6 +163,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -339,6 +340,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
@@ -777,6 +779,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1791-find-center-of-star-graph) |
@@ -896,4 +899,24 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
