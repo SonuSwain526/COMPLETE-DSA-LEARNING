@@ -64,6 +64,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
@@ -157,6 +158,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -206,6 +208,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -273,6 +276,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
@@ -341,6 +345,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
@@ -526,6 +531,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
@@ -679,6 +685,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
