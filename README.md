@@ -68,6 +68,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0860-lemonade-change) |
@@ -347,6 +348,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -477,6 +479,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1514-path-with-maximum-probability) |
@@ -498,6 +501,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -537,6 +541,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
@@ -578,6 +583,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0827-making-a-large-island) |
 | [0934-shortest-bridge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
@@ -692,6 +698,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0802-find-eventual-safe-states) |
@@ -868,6 +875,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -917,6 +925,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
