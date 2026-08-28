@@ -20,22 +20,34 @@ class Node {
 
 class Solution {
     Node[] vis;
+    HashMap<Node, Node> map;
     public Node cloneGraph(Node node) {
         if (node == null) return null;
-        vis = new Node[101];
-        Arrays.fill(vis, null);
+        // vis = new Node[101];
+        map = new HashMap<>();
+        // Arrays.fill(vis, null);
         dfs(node);
-        return vis[node.val];
+        return map.get(node);
     }
 
     Node dfs(Node cur) {
-        if (vis[cur.val] != null) return vis[cur.val];
-        vis[cur.val] = new Node(cur.val);
+        if (map.containsKey(cur)) return map.get(cur);
+        map.put(cur, new Node(cur.val));
 
         for (Node n: cur.neighbors) {
-            vis[cur.val].neighbors.add(dfs(n));
+            map.get(cur).neighbors.add(dfs(n));
         }
-        
-        return vis[cur.val];
+        return map.get(cur);
     }
+
+    // Node dfs(Node cur) {
+    //     if (vis[cur.val] != null) return vis[cur.val];
+    //     vis[cur.val] = new Node(cur.val);
+
+    //     for (Node n: cur.neighbors) {
+    //         vis[cur.val].neighbors.add(dfs(n));
+    //     }
+        
+    //     return vis[cur.val];
+    // }
 }
