@@ -19,7 +19,7 @@ class Node {
 */
 
 class Solution {
-    Node[] vis;
+    // Node[] vis;
     HashMap<Node, Node> map;
     public Node cloneGraph(Node node) {
         if (node == null) return null;
