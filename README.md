@@ -400,6 +400,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0045-jump-game-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
@@ -601,6 +602,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
@@ -958,4 +960,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
