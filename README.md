@@ -204,6 +204,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -406,6 +407,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
@@ -805,6 +807,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0046-permutations](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 ## Graph Theory
 |  |
