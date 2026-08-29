@@ -45,6 +45,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
@@ -202,6 +203,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0020-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
@@ -590,6 +592,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
@@ -675,6 +678,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0099-recover-binary-search-tree) |
@@ -808,6 +812,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0040-combination-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
