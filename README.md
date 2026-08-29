@@ -8,6 +8,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
@@ -19,6 +20,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0933-number-of-recent-calls) |
@@ -257,6 +259,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0145-binary-tree-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
