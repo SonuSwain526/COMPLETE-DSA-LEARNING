@@ -1,47 +1,32 @@
 class MinStack {
-    MinStack x;
-    int[] y;
-    int ptr = -1;
+
+    List<Integer> s;
+    List<Integer> mins;
+    // int min = Integer.MAX_VALUE;
+
     public MinStack() {
-        y = new int[10];
+        s = new ArrayList<>();
+        mins = new ArrayList<>();
     }
     
     public void push(int value) {
-        if(ptr == y.length-1){
-            int[] x = new int[2 * y.length];
-            System.arraycopy(y, 0, x, 0, y.length);
-            y = x;
-        }
-        ptr++;
-        y[ptr] = value;
+        // min = Math.min(min, value);
+        if (mins.size() < 1 || value <= mins.getLast()) mins.add(value);
+        s.add(value);
     }
     
     public void pop() {
-        // if(isEmp()) ret
-        ptr--;
+        if (s.size() < 1) return;
+        if (s.getLast().equals(mins.getLast())) mins.removeLast();
+        s.removeLast();
     }
     
     public int top() {
-        // int[] y = x;
-        // int p = ptr;
-        // int max = Integer.MIN_VALUE;
-        // while(p != -1){
-        //     max = Math.max(max, y[p]);
-        //     p--;
-        // }
-
-        return y[ptr];
+        return s.getLast();
     }
     
     public int getMin() {
-        int p = ptr;
-        int max = Integer.MAX_VALUE;
-        while(p != -1){
-            max = Math.min(max, y[p]);
-            p--;
-        }
-
-        return max;
+        return mins.getLast();
     }
 }
 
