@@ -74,6 +74,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0827-making-a-large-island) |
@@ -263,6 +264,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -330,6 +332,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0402-remove-k-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
