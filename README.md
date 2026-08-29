@@ -39,6 +39,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0040-combination-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0057-insert-interval) |
@@ -801,6 +802,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
