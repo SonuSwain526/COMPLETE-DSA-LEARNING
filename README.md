@@ -42,6 +42,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0053-maximum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
@@ -514,6 +515,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -799,6 +801,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 ## Graph Theory
