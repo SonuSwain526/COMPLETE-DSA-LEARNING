@@ -78,6 +78,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0733-flood-fill](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0827-making-a-large-island) |
@@ -425,6 +426,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
