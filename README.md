@@ -212,6 +212,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0032-longest-valid-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0127-word-ladder) |
@@ -421,6 +422,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0055-jump-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
