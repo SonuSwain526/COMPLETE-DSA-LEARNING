@@ -139,6 +139,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -328,6 +329,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -541,6 +543,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -594,6 +597,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -627,6 +631,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
