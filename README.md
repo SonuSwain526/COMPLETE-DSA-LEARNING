@@ -57,6 +57,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0135-candy) |
@@ -430,6 +431,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
