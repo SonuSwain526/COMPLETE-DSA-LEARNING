@@ -148,6 +148,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -655,6 +656,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
