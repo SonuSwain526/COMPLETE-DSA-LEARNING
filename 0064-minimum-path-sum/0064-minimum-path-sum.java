@@ -7,38 +7,53 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int[][] dist = new int[m][n];
-        for (int[] x: dist) Arrays.fill(x, Integer.MAX_VALUE);
-        dist[0][0] = grid[0][0];
+        int[][] dp = new int[m][n];
+        dp[0][0] = grid[0][0];
 
-        PriorityQueue<Pair<int[], Integer>> pq = new PriorityQueue<>(
-            (a, b) -> a.getValue() - b.getValue()
-        );
-        pq.add(new Pair<>(new int[]{0, 0}, grid[0][0]));
-
-        while (!pq.isEmpty()) {
-            Pair<int[], Integer> cur = pq.poll();
-            int i = cur.getKey()[0];
-            int j = cur.getKey()[1];
-            int wt = cur.getValue();
-            if (wt > dist[i][j]) continue;
-            
-            if (i + 1 < m) {
-                int curwt = wt + grid[i+1][j];
-                if (curwt < dist[i+1][j]) {
-                    dist[i+1][j] = curwt;
-                    pq.add(new Pair<>(new int[]{i+1, j}, curwt));
-                }
-            }
-            if (j + 1 < n) {
-                int curwt = wt + grid[i][j + 1];
-                if (curwt < dist[i][j + 1]) {
-                    dist[i][j + 1] = curwt;
-                    pq.add(new Pair<>(new int[]{i, j + 1}, curwt));
-                }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                // dp[i][j] = grid[i][j];
+                int a = Integer.MAX_VALUE, b = Integer.MAX_VALUE;
+                if (i - 1 >= 0) a = dp[i - 1][j] + grid[i][j];
+                if (j - 1 >= 0) b = dp[i][j - 1] + grid[i][j];
+                if ( !(i == 0 && j == 0) ) dp[i][j] = Math.min(a, b);
             }
         }
-        return dist[m - 1][n - 1];
+
+        return dp[m - 1][n - 1];
+
+        // int[][] dist = new int[m][n];
+        // for (int[] x: dist) Arrays.fill(x, Integer.MAX_VALUE);
+        // dist[0][0] = grid[0][0];
+
+        // PriorityQueue<Pair<int[], Integer>> pq = new PriorityQueue<>(
+        //     (a, b) -> a.getValue() - b.getValue()
+        // );
+        // pq.add(new Pair<>(new int[]{0, 0}, grid[0][0]));
+
+        // while (!pq.isEmpty()) {
+        //     Pair<int[], Integer> cur = pq.poll();
+        //     int i = cur.getKey()[0];
+        //     int j = cur.getKey()[1];
+        //     int wt = cur.getValue();
+        //     if (wt > dist[i][j]) continue;
+            
+        //     if (i + 1 < m) {
+        //         int curwt = wt + grid[i+1][j];
+        //         if (curwt < dist[i+1][j]) {
+        //             dist[i+1][j] = curwt;
+        //             pq.add(new Pair<>(new int[]{i+1, j}, curwt));
+        //         }
+        //     }
+        //     if (j + 1 < n) {
+        //         int curwt = wt + grid[i][j + 1];
+        //         if (curwt < dist[i][j + 1]) {
+        //             dist[i][j + 1] = curwt;
+        //             pq.add(new Pair<>(new int[]{i, j + 1}, curwt));
+        //         }
+        //     }
+        // }
+        // return dist[m - 1][n - 1];
     }
     int f(int[][] grid, int i, int j, int[][] dp) {
         if (i >= grid.length || j >= grid[0].length) return Integer.MAX_VALUE;
