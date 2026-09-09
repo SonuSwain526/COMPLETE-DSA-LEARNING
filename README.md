@@ -668,6 +668,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
