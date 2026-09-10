@@ -720,6 +720,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1377-frog-position-after-t-seconds) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -783,6 +784,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -832,6 +834,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1367-linked-list-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
