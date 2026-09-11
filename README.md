@@ -143,6 +143,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -339,6 +340,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
@@ -623,6 +625,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0025-reverse-nodes-in-k-group](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -901,6 +904,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [1291-sequential-digits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Iterator
 |  |
 | ------- |
