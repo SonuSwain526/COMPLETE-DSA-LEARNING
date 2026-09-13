@@ -70,6 +70,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
@@ -451,6 +452,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
@@ -875,6 +877,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0126-word-ladder-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1052,10 +1055,12 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
