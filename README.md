@@ -65,6 +65,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0200-number-of-islands](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
@@ -448,6 +449,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0131-palindrome-partitioning](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
@@ -586,6 +588,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0226-invert-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
@@ -1047,9 +1050,14 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
