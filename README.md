@@ -175,6 +175,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
@@ -256,6 +257,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -377,6 +379,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
 ## Union-Find
 |  |
@@ -466,6 +469,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
