@@ -264,6 +264,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -410,6 +411,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
