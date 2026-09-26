@@ -122,6 +122,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -257,6 +258,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -341,6 +343,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1386-cinema-seat-allocation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
