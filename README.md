@@ -134,6 +134,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
@@ -482,6 +483,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
@@ -679,6 +681,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1091,4 +1094,5 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
