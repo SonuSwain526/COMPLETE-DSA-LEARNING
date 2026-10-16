@@ -592,6 +592,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -656,6 +657,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
@@ -695,6 +697,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0062-unique-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
