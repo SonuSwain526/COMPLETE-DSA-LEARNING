@@ -451,6 +451,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -591,6 +592,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0078-subsets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
