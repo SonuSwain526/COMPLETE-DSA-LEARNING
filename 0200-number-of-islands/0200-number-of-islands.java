@@ -1,43 +1,46 @@
 class Solution {
     public int numIslands(char[][] grid) {
+        int ans = 0;
 
-        int m = grid.length, n = grid[0].length;
-        
-        boolean[][] vis = new boolean[m][n];
+        boolean[][] b = new boolean[grid.length][grid[0].length];
 
-        int c = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!vis[i][j] && grid[i][j] == '1') {
-                    dfs (i, j, vis, grid);
-                    c++;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (!b[i][j] && grid[i][j] == '1') {
+                    ans++;
+                    // System.out.println("hi");
+                    bfs(grid, i, j, b);
                 }
             }
         }
-
-        return c;
+        return ans;
     }
-
-    void dfs (int i,int j, boolean[][] vis, char[][] grid) {
-
-        if (vis[i][j]) return;
-        if (grid[i][j] == '0') return;
-
-        vis[i][j] = true;
-
+    void bfs(char[][] grid, int si, int sj, boolean[][] b) {
+        int m = grid.length;
+        int n = grid[0].length;
+        Stack<Pair<Integer, Integer>> st = new Stack<>();
+        st.push(new Pair<>(si, sj));
+        b[si][sj] = true;
+        // System.out.println("hi");
         int[] x = {0, 0, 1, -1};
         int[] y = {1, -1, 0, 0};
 
-        for (int k = 0; k < 4; k++) {
-            int curI = x[k] + i;
-            int curJ = y[k] + j;
+        while (!st.isEmpty()) {
+            int size = st.size();
+            while (size-- > 0) {
+                Pair<Integer, Integer> cur = st.pop();
+                int curi = cur.getKey();
+                int curj = cur.getValue();
+                for (int i = 0; i < 4; i++) {
+                    int inI = curi + x[i];
+                    int inJ = curj + y[i];
 
-            if (curI < vis.length && curJ < vis[0].length &&
-                curI >= 0 && curJ >= 0 &&
-                !vis[curI][curJ] && grid[curI][curJ] == '1'
-            ) dfs (curI, curJ, vis, grid);
+                    if (inI > -1 && inI < m && inJ > -1 && inJ < n && grid[inI][inJ] == '1' && !b[inI][inJ]) {
+                        b[inI][inJ] = true;
+                        st.push(new Pair<>(inI, inJ));
+                    }
+                }
+            }
         }
-
     }
 }
