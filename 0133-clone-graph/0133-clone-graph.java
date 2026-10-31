@@ -1,4 +1,4 @@
-/*
+    /*
 // Definition for a Node.
 class Node {
     public int val;
@@ -19,35 +19,22 @@ class Node {
 */
 
 class Solution {
-    // Node[] vis;
-    HashMap<Node, Node> map;
+    HashMap<Node, Node> check = new HashMap<>();
     public Node cloneGraph(Node node) {
         if (node == null) return null;
-        // vis = new Node[101];
-        map = new HashMap<>();
-        // Arrays.fill(vis, null);
-        dfs(node);
-        return map.get(node);
+
+        if (check.getOrDefault(node, null) != null) return check.get(node);
+
+        Node x = new Node(node.val);
+
+        check.put(node, x);
+
+        List<Node> cur = new ArrayList<>();
+
+        for (Node xx: node.neighbors)
+                cur.add(cloneGraph(xx));
+
+        x.neighbors = cur;
+        return x;
     }
-
-    Node dfs(Node cur) {
-        if (map.containsKey(cur)) return map.get(cur);
-        map.put(cur, new Node(cur.val));
-
-        for (Node n: cur.neighbors) {
-            map.get(cur).neighbors.add(dfs(n));
-        }
-        return map.get(cur);
-    }
-
-    // Node dfs(Node cur) {
-    //     if (vis[cur.val] != null) return vis[cur.val];
-    //     vis[cur.val] = new Node(cur.val);
-
-    //     for (Node n: cur.neighbors) {
-    //         vis[cur.val].neighbors.add(dfs(n));
-    //     }
-        
-    //     return vis[cur.val];
-    // }
 }
