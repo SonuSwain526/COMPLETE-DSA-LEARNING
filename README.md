@@ -153,6 +153,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3525-find-x-value-of-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -493,6 +494,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3665-twisted-mirror-path-count) |
 ## Linked List
 |  |
 | ------- |
@@ -697,6 +699,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
