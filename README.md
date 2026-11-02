@@ -70,6 +70,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
@@ -193,6 +194,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0295-find-median-from-data-stream](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
@@ -708,6 +710,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0070-climbing-stairs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
