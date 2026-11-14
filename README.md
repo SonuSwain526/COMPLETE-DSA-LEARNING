@@ -150,6 +150,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3525-find-x-value-of-array-ii) |
@@ -446,6 +447,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3903-smallest-stable-index-i) |
@@ -547,6 +549,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
 | ------- |
