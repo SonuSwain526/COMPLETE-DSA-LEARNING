@@ -118,6 +118,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1436-destination-city) |
 | [1514-path-with-maximum-probability](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1631-path-with-minimum-effort) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -445,6 +446,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1004-max-consecutive-ones-iii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3364-minimum-positive-sum-subarray) |
@@ -497,6 +499,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1340-jump-game-v](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -720,6 +723,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0877-stone-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3525-find-x-value-of-array-ii) |
