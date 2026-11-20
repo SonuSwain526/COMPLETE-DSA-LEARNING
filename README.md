@@ -148,6 +148,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3093-longest-common-suffix-queries) |
@@ -222,6 +223,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -510,6 +512,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3665-twisted-mirror-path-count) |
 ## Linked List
 |  |
