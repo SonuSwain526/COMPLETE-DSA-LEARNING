@@ -284,6 +284,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
