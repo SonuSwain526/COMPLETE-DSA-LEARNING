@@ -176,6 +176,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3876-construct-uniform-parity-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -392,6 +393,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [3718-smallest-missing-multiple-of-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -543,6 +545,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -551,6 +554,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -622,6 +626,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2089-find-target-indices-after-sorting-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2540-minimum-common-value) |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1164,4 +1169,8 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0543-diameter-of-binary-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
