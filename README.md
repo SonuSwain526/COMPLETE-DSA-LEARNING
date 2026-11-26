@@ -455,6 +455,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -751,6 +752,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
