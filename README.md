@@ -84,6 +84,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0621-task-scheduler](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0721-accounts-merge) |
@@ -330,6 +331,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0496-next-greater-element-i](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0901-online-stock-span) |
@@ -454,6 +456,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
