@@ -26,6 +26,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [0622-design-circular-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1670-design-front-middle-back-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
@@ -134,6 +135,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
@@ -450,6 +452,7 @@ im gonna add all my stuffs that im doing dailly in basis, basically im pushing m
 | ------- |
 | [0735-asteroid-collision](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SonuSwain526/COMPLETE-DSA-LEARNING/tree/master/2243-calculate-digit-sum-of-a-string) |
